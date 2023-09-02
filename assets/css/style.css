@@ -21,7 +21,6 @@
 }
 
 
-@media (300px <= width <= 600px){
 
     body{
         width: 100%;
@@ -122,7 +121,7 @@
     body .container-card .card-info .card-plan a:hover{
         cursor: pointer;
         text-decoration: none;
-        color: var(--color03);
+        color: var(--color02);
 
     }
     body .container-card .card-info .card-btns{
@@ -160,6 +159,3 @@
     body .container-card .card-info .card-btns .cancel-btn:hover{
         color: var(--color05);
     }
-
-
-}
